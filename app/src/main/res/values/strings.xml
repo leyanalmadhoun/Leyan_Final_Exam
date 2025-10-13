@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Leyan_Final_Exam</string>
+    <string name="open_drawer">Open navigation</string>
+    <string name="close_drawer">Close navigation</string>
+
+
+    <string-array name="status_array">
+        <item>Pending</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+
 </resources>
